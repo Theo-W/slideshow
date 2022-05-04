@@ -1,0 +1,8 @@
+/* Import file Layouts */
+@import "layouts/_reset.css";
+@import "layouts/_layout.css";
+@import "layouts/_carrousel.css";
+
+/* Import Themes */
+@import "themes/themes.css";
+
